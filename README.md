@@ -1,5 +1,7 @@
 # KKSC-PROJECT1
 
+보안상 문제가 없는 코드에 대한 소스파일입니다. 참고 바랍니다.
+
 # KKSC homepage 제작 프로젝트
 
 Spring boot를 사용한 KKSC 동아리 홈페이지 제작 프로젝트
